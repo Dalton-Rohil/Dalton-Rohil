@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **- daltonrohil@icloud.com**
 
-- ⚡ Fun fact **-Im Half Built already **
+- ⚡ Fun fact **- Im Half Built already **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
