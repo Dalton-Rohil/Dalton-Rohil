@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, I'm Dalton</h1>
+<h1 align="center">Hola 👋,This is what I've been doing</h1>
 <h3 align="center">A newbie Ethical Hacker and a Python developer.Well a data scientist in the making</h3>
 
 <p align="left"> <a href="https://twitter.com/daltonrohil" target="blank"><img src="https://img.shields.io/twitter/follow/daltonrohil?logo=twitter&style=for-the-badge" alt="daltonrohil" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science & AI**
 
-- 📫 How to reach me **daltonrohil@icloud.com**
+- 📫 How to reach me **- daltonrohil@icloud.com**
 
-- ⚡ Fun fact **Im totally Sarcastic**
+- ⚡ Fun fact **-Im Half Built already **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
