@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daltonrohil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="daltonrohil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dalton rohil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dalton rohil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daltonrohil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dalton rohil" height="30" width="40" /></a>
 <a href="https://instagram.com/dalton_rohil_46" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dalton_rohil_46" height="30" width="40" /></a>
 </p>
 
