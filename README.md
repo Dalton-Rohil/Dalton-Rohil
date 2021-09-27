@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,Here is what I've been doing</h1>
-<h3 align="center">A newbie Ethical Hacker and a Python developer.Well a data scientist in the making</h3>
+<h3 align="center">A Python developer.Well a data scientist in the making</h3>
 
 <p align="left"> <a href="https://twitter.com/daltonrohil" target="blank"><img src="https://img.shields.io/twitter/follow/daltonrohil?logo=twitter&style=for-the-badge" alt="daltonrohil" /></a> </p>
 
