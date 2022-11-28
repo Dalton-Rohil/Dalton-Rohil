@@ -8,11 +8,11 @@
   </a>
   
   <a href="https://mobile.twitter.com/daltonrohil">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" align="right" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter Badge"/>
   </a>
   
    <a href="https://www.instagram.com/dalton_rohil_46/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="right/>
   </a>
   
 </div>
