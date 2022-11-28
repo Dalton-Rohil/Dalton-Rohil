@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" padding:50px margin:50px>
-  <a href="www.linkedin.com/in/daltonrohil">
+  <a href="https://www.linkedin.com/in/daltonrohil/?originalSubdomain=in">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="left"  alt="LinkedIn Badge"/>
   </a>
   
