@@ -2,17 +2,20 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="85"/>
 </div>
 
+
+
+
 <div id="badges">
   <a href="www.linkedin.com/in/daltonrohil">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="left" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="middle" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://mobile.twitter.com/daltonrohil">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" align="middle"   alt="Twitter Badge"/>
   </a>
   
    <a href="https://www.instagram.com/dalton_rohil_46/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="right/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="middle" align="right/>
   </a>
   
 </div>
