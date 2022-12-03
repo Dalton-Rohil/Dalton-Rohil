@@ -22,14 +22,14 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Dalton-Rohil&style=flat-square&color=blue"  width="120" height="25"  alt="Never gonna give you up"/></div>
 
 ---
-### <div align="center">.I'm Dalton, A Data Scientist, Open Source Enthusiast, and Life Long Learner. </div>   
+### <div align="center">I'm Dalton, A Data Scientist, Open Source Enthusiast, and Life Long Learner. </div>   
 
 
 - :telescope: Currently working as a <strong>Data Scientist</strong> & simultaneously exploring new tools.
 
 - :seedling: Currently learning <strong>Tensorflow & DevOps</strong> .
 
-- :zap: In the free hours, I solve problems on Coding Platforms and xplore Tech.
+- :zap: In the free hours, I solve problems on Coding Platforms and explore new Tech.
 
 - :mailbox:How to reach me: daltonrohil@icloud.com
 
