@@ -69,7 +69,7 @@
   
   <img src="https://st3.depositphotos.com/9987990/16592/v/450/depositphotos_165929826-stock-illustration-devops-logotype-sign-of-infinity.jpg" title="DevOps" alt="DevOps" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" title="Azure" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
  
   
    
