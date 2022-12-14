@@ -27,7 +27,7 @@
 
 - :telescope: Currently working as a <strong>Data Scientist</strong> & simultaneously exploring new tools.
 
-- :seedling: Currently learning <strong>Tensorflow & DevOps</strong> .
+- :seedling: Currently learning <strong>Tensorflow & MLOps</strong> .
 
 - :zap: In the free hours, I solve problems on Coding Platforms and explore new Tech.
 
