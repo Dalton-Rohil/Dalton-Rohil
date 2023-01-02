@@ -22,7 +22,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Dalton-Rohil&style=flat-square&color=blue"  width="120" height="25"  alt="Never gonna give you up"/></div>
 
 ---
-### <div align="center">I'm Dalton, A Data Scientist, Open Source Enthusiast, and Life Long Learner. </div>   
+### <div align="center">I'm working as a Data Scientist. I'm an Open Source Enthusiast and Life Long Learner. </div>   
 
 
 - :telescope: Currently working as a <strong>Data Scientist</strong> & simultaneously exploring new tools.
