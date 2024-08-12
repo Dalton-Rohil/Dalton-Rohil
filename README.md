@@ -52,23 +52,6 @@
 
 ---
 
-### 🌟 Fun Facts
-
-- 🎮 Joystick Jedi: Master of avoiding real-life responsibilities by defeating virtual enemies.
-- ✈️ Skyborne Cinematographer: Future auteur of breathtaking aerial travel masterpieces.
-- 🎧 Reality Escapist: I crank up the tunes to drown out the sound of reality knocking on my door.
-
----
-
-### 🌱 Currently Exploring
-
-- 🛠️ MLOps: Streamlining machine learning workflows and deployment.
-- 📈 Advanced ML: Enhancing my skills in predictive modeling and statistical analysis.
-- 🤖 AI and GenAI: Diving deep into neural networks and AI with TensorFlow, exploring the future of General AI.
-
-
----
-
 ### 🛠️ My Skillset
 
 #### Data Science
