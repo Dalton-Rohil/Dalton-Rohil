@@ -20,18 +20,9 @@
 
 ---
 
-### <div align="center">👋 Yoo Alien's</div>
+### <div align="center">👋 Yoo </div>
 ### <div align="center">I'm A self-proclaimed data alchemist who transforms numbers into narratives, obsessing over open source, and faking my way through AI mastery with the help of Google & ChatGPT.</div>
 ### <div align="center">🌐 Check out my [Portfolio](https://dalton-rohil.github.io/portfolio)</div>
-
----
-
-### 🚀 What I Do(Little) ?
-
-- 🌟 **Data Wizardry:** Turning raw data into actionable insights using advanced analytics and machine learning.
-- 🛠️ **Tool Mastery:** Leveraging tools like Python, TensorFlow, and Power BI to build robust and scalable data solutions.
-- 🌐 **Open Source Advocate:** Contributing to the community by developing and sharing innovative open-source projects.
-- 📚 **Lifelong Learner:** Always exploring new technologies and methodologies to stay at the cutting edge of the data science field.
 
 ---
 
@@ -86,14 +77,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 📫 Connect with Me
-
-- LinkedIn: [Dalton Rohil](https://www.linkedin.com/in/daltonrohil/?originalSubdomain=in)
-- Twitter: [@daltonrohil](https://mobile.twitter.com/daltonrohil)
-- Instagram: [@dalton_rohil_46](https://www.instagram.com/dalton_rohil_46/?hl=en)
 
 ---
 
